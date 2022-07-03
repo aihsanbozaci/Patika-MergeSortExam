@@ -1,4 +1,4 @@
-# PatikaMergeSortExam
+# Patika-MergeSortExam
 
 Project 2 exam questions <br> <br>
 [16,21,11,8,12,22] -> Merge Sort
